@@ -1,0 +1,11 @@
+C:\Users\feda'a\source\repos\PictureBox using comboBox\bin\Debug\PictureBox using comboBox.exe.config
+C:\Users\feda'a\source\repos\PictureBox using comboBox\bin\Debug\PictureBox using comboBox.exe
+C:\Users\feda'a\source\repos\PictureBox using comboBox\bin\Debug\PictureBox using comboBox.pdb
+C:\Users\feda'a\source\repos\PictureBox using comboBox\obj\Debug\PictureBox using comboBox.csproj.AssemblyReference.cache
+C:\Users\feda'a\source\repos\PictureBox using comboBox\obj\Debug\PictureBox using comboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\feda'a\source\repos\PictureBox using comboBox\obj\Debug\PictureBox_using_comboBox.Form1.resources
+C:\Users\feda'a\source\repos\PictureBox using comboBox\obj\Debug\PictureBox_using_comboBox.Properties.Resources.resources
+C:\Users\feda'a\source\repos\PictureBox using comboBox\obj\Debug\PictureBox using comboBox.csproj.GenerateResource.cache
+C:\Users\feda'a\source\repos\PictureBox using comboBox\obj\Debug\PictureBox using comboBox.csproj.CoreCompileInputs.cache
+C:\Users\feda'a\source\repos\PictureBox using comboBox\obj\Debug\PictureBox using comboBox.exe
+C:\Users\feda'a\source\repos\PictureBox using comboBox\obj\Debug\PictureBox using comboBox.pdb
